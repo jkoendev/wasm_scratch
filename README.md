@@ -10,6 +10,7 @@ emcc hw.c -s WASM=0
 node hw.out.js
 em++ sdl.c -o sdl.out.html
 ```
+open [http://localhost:8080/hw.out.html](http://localhost:8080/hw.out.html) in browser
 open [http://localhost:8080/sdl.out.html](http://localhost:8080/sdl.out.html) in browser
 
 
