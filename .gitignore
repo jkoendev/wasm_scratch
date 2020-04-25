@@ -2,6 +2,9 @@
 *.wasm
 *.out.js
 *.out.html
+*.out.data
+
+.vscode/
 
 # Prerequisites
 *.d
